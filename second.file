@@ -1,7 +1,6 @@
 "somthing" 
 "new liiiine" 
-<<<<<<< HEAD
 "new" 
-=======
 "Test"
->>>>>>> 2cea256064a94df29661fe9005428bbbadd8e9f8
+"New line in my_first_branch" 
+>>>>>>> my_first_branch
